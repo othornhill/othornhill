@@ -7,6 +7,9 @@ A Dumaresq is an analog computer, first invented in 1902, designed to solve the 
 
 I hope to learn a lot about GitHub and Python while working on this problem, in addition to potentially brushing up on some aerospace fundamentals. Stay tuned if you want to see (or cringe at) my early fumbling through Python coding or if you want to see me blather on about naval history and what sources I've managed to dig up on my quest. At the very least, I have the saving grace of not having to machine my computer. All I have to do is program it. 
 
+### Aerospace Calculators
+At the moment, this is only my shock calculator, shocking, but I hope to make a few more basic calculators as practice, foundations for future projects, and maybe even something for other people to use.
+
 <!--
 **othornhill/othornhill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
