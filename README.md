@@ -1,6 +1,8 @@
 ## Hello! 
 I'm Oliver Thornhill, a recent Georgia Tech graduate in Aerospace Engineering, and I'm using GitHub as a place to hold some of my projects. At the moment, I don't have much to show off, but I'm working to try to transfer my Matlab programming skills over to Python. To tell you a little about myself, I'm a tremendous space nerd (hence the aerospace) and a lover of history. 
 
+If you couldn't tell, I'm the fella in the photo. The small one, though, not the Space Shuttle.
+
 ## Projects
 ### Dumaresq
 A Dumaresq is an analog computer, first invented in 1902, designed to solve the fire control problem - that is, the delicate art of trying to hit another ship with shells when you're moving, they're moving, and the shells are moving. It's a complex problem, one that a lot of very smart people worked with when lives were on the line, and my interest in naval history in that period drew me to it. Hopefully, my Dumaresq project will work its way, piecemeal, toward a solver for the fire control problem. I've got a lot of ideas buzzing around in my head about it. 
